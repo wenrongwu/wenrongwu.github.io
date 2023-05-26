@@ -5,7 +5,7 @@ subitems:
   - title: 主頁說明
     url: /about
     hr: true    
-  - title: About
+  - title: 練習曲
     subitems:
       - title: About this theme
         url: /about
@@ -15,7 +15,7 @@ subitems:
         url: /accessibility
       - title: SEO
         url: /seo
-  - title: Documentation
+  - title: 和弦
     subitems:
       - title: Getting started
         url: /getting_started
@@ -33,7 +33,7 @@ subitems:
         url: /website_sections
       - title: Resource table
         url: /resource_table
-  - title: Example pages
+  - title: 初學曲譜
     subitems:
       - title: Contributor page
         url: /contributors
