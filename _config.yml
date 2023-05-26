@@ -1,10 +1,10 @@
-title: ELIXIR toolkit theme
+﻿title: 吳老師音樂教室
 # This appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 # topnav_title: ELIXIR toolkit theme
 # Optional: this appears on the top navigation bar next to the main_logo.svg icon
 
-description: "Flexible Jekyll theme using bootstrap 5 as CSS framework."
+description: "吳老師音樂教室 成人班 - 新手上路."
 # Metadata description of the website
 
 dsw_deep_link_prefix:
