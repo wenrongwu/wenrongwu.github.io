@@ -58,7 +58,14 @@ subitems:
         url: /all_trainings
       - title: Website overview
         url: /website_overview
-  - title: 404 page not found
-    url: /404
-    hr: true
+  - title: 教學影帶
+    subitems:
+      - title: About this theme
+        url: /about
+      - title: ELIXIR resources
+        url: /elixir_resources
+      - title: Accessibility
+        url: /accessibility
+      - title: SEO
+        url: /seo
   
