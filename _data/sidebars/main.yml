@@ -7,13 +7,15 @@ subitems:
     hr: true    
   - title: 練習曲
     subitems:
-      - title: About this theme
+      - title: 練習曲 3
         url: /about
-      - title: ELIXIR resources
+      - title: 練習曲 4
         url: /elixir_resources
-      - title: Accessibility
+      - title: 練習曲 5
         url: /accessibility
-      - title: SEO
+      - title: 練習曲 6
+        url: /seo
+      - title: 練習曲 7
         url: /seo
   - title: 和弦
     subitems:
