@@ -69,7 +69,7 @@ theme_variables:
 
 # --- Missing in gitlab: ---
 # github:
-#   repository_url: https://github.com/ELIXIR-Belgium/elixir-toolkit-theme
+#   repository_url: https://github.com/wenrongwu/wenrongwu.github.io
 #   source:
 #     branch: main
 
