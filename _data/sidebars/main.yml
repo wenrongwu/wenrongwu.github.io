@@ -1,7 +1,10 @@
-# title: About
+﻿# title: About
 # version: 2.0
 # title_url:  /events
 subitems:
+  - title: 主頁說明
+    url: /about
+    hr: true    
   - title: About
     subitems:
       - title: About this theme
