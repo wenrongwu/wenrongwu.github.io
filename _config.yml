@@ -60,7 +60,8 @@ theme_variables:
   #   headers: 'h2'
    topnav:
      theme: light
-     brand_logo: assets/img/main_logo.svg
+     #brand_logo: assets/img/main_logo.svg
+     brand_logo: assets/img/music-Logo.svg
      github: false
      twitter: false
   # theme_color: 0d6efd

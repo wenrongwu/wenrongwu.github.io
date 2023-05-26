@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets\\img",
+    "\\pages",
+    "\\_data",
+    "\\_data\\sidebars"
   ],
+  "SelectedNode": "\\_data\\sidebars\\main.yml",
   "PreviewInSolutionExplorer": false
 }
