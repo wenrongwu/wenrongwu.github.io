@@ -53,7 +53,7 @@ theme_variables:
   topnav:
     theme: light
     brand_logo: assets/img/main_logo.svg
-    github: true
+    github: false
     twitter: false
   theme_color: 0d6efd
   fonts:
