@@ -49,11 +49,11 @@ theme_variables:
   # git_host: GitHub
   # back_to_top: true
   # privacy_statement_url: /privacy
-  # github_buttons: 
-  #   position: top
-  #   edit_me: true
-  #   open_issue: true
-  #   history: true
+   github_buttons: 
+     position: top
+     edit_me: false
+     open_issue: false
+     history: false
   # toc:
   #   full_width: false
   #   min_headers: 2
