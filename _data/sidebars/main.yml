@@ -6,6 +6,7 @@ subitems:
     url: /about
     hr: true    
   - title: 練習曲
+    url: /about
     subitems:
       - title: 練習曲 3
         url: /about
