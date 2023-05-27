@@ -22,36 +22,36 @@ subitems:
       - title: 主要和弦
         url: /getting_started
         subitems:
-          - title: C
+          - title: C和弦
             url: /general_page
-          - title: D
+          - title: D和弦
             url: /general_page_2
-          - title: E
+          - title: E和弦
             url: /general_page_3
-          - title: F
+          - title: F和弦
             url: /general_page_4
-          - title: G
+          - title: G和弦
             url: /general_page_4
-          - title: A
+          - title: A和弦
             url: /general_page_4
-          - title: B
+          - title: B和弦
             url: /general_page_4
       - title: 小和弦
         url: /markdown_cheat_sheet
         subitems:
-          - title: Cm
+          - title: Cm和弦
             url: /general_page
-          - title: Dm
+          - title: Dm和弦
             url: /general_page_2
-          - title: Em
+          - title: Em和弦
             url: /general_page_3
-          - title: Fm
+          - title: Fm和弦
             url: /general_page_4
-          - title: Gm
+          - title: Gm和弦
             url: /general_page_4
-          - title: Am
+          - title: Am和弦
             url: /general_page_4
-          - title: Bm
+          - title: Bm和弦
             url: /general_page_4
   - title: 初學曲譜
     subitems:
