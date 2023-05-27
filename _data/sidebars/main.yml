@@ -6,10 +6,10 @@ subitems:
     url: /about
     hr: true    
   - title: 練習曲
-    url: /about
+    url: /Practice
     subitems:
       - title: 練習曲 3
-        url: /about
+        url: /Practice03
       - title: 練習曲 4
         url: /elixir_resources
       - title: 練習曲 5
