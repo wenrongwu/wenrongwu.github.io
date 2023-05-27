@@ -19,22 +19,28 @@ subitems:
         url: /seo
   - title: 和弦
     subitems:
-      - title: Getting started
+      - title: 主要和弦（Major Chords）
         url: /getting_started
-      - title: Markdown cheat sheet
+        subitems:
+          - title: General page
+            url: /general_page
+          - title: General page 2
+            url: /general_page_2
+          - title: General page 3
+            url: /general_page_3
+          - title: General page 4
+            url: /general_page_4
+      - title: 小和弦（Minor Chords）
         url: /markdown_cheat_sheet
-      - title: Navigation structures
-        url: /navigation_structures
-      - title: Configuring the theme
-        url: /configuring_theme
-      - title: Page mechanics
-        url: /page_mechanics
-      - title: Custom branding
-        url: /custom_branding
-      - title: Website sections
-        url: /website_sections
-      - title: Resource table
-        url: /resource_table
+        subitems:
+          - title: General page
+            url: /general_page
+          - title: General page 2
+            url: /general_page_2
+          - title: General page 3
+            url: /general_page_3
+          - title: General page 4
+            url: /general_page_4
   - title: 初學曲譜
     subitems:
       - title: Contributor page
@@ -47,15 +53,6 @@ subitems:
         url: /logo_page
       - title: Section overview
         url: /overview_tiles
-        subitems:
-          - title: General page
-            url: /general_page
-          - title: General page 2
-            url: /general_page_2
-          - title: General page 3
-            url: /general_page_3
-          - title: General page 4
-            url: /general_page_4
       - title: All trainings
         url: /all_trainings
       - title: Website overview
