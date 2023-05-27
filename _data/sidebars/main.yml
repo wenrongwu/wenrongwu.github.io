@@ -19,44 +19,46 @@ subitems:
         url: /seo
   - title: 和弦
     subitems:
-      - title: 主要和弦（Major Chords）
+      - title: 主要和弦
         url: /getting_started
         subitems:
-          - title: General page
+          - title: C
             url: /general_page
-          - title: General page 2
+          - title: D
             url: /general_page_2
-          - title: General page 3
+          - title: E
             url: /general_page_3
-          - title: General page 4
+          - title: F
             url: /general_page_4
-      - title: 小和弦（Minor Chords）
+          - title: G
+            url: /general_page_4
+          - title: A
+            url: /general_page_4
+          - title: B
+            url: /general_page_4
+      - title: 小和弦
         url: /markdown_cheat_sheet
         subitems:
-          - title: General page
+          - title: Cm
             url: /general_page
-          - title: General page 2
+          - title: Dm
             url: /general_page_2
-          - title: General page 3
+          - title: Em
             url: /general_page_3
-          - title: General page 4
+          - title: Fm
+            url: /general_page_4
+          - title: Gm
+            url: /general_page_4
+          - title: Am
+            url: /general_page_4
+          - title: Bm
             url: /general_page_4
   - title: 初學曲譜
     subitems:
-      - title: Contributor page
+      - title: 生日快樂
         url: /contributors
-      - title: Events
+      - title: 小白花
         url: /events
-      - title: News
-        url: /news
-      - title: Logo page
-        url: /logo_page
-      - title: Section overview
-        url: /overview_tiles
-      - title: All trainings
-        url: /all_trainings
-      - title: Website overview
-        url: /website_overview
   - title: 教學影帶
     subitems:
       - title: About this theme
