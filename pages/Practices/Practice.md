@@ -3,7 +3,12 @@ title: 練習曲
 ---
 練習曲
 
+```
+{% raw %}
 {% include section-navigation-tiles-simple.html type="Practice 03" %}
+{% endraw %}
+```
+
 * [練習曲 3] (Practice03)
 * 練習曲 4
 * 練習曲 5
