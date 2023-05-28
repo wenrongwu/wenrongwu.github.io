@@ -2,7 +2,7 @@
 title: 練習曲 3
 ---
 
-練習曲 3
+練習曲 3 new
 
 <script src="https://www.youtube.com/iframe_api"></script>
 <div id="player"></div>
