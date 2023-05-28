@@ -3,16 +3,11 @@ title: 練習曲
 ---
 練習曲
 
-This project started when we wanted to make a static website that is deployed using GitHub pages that is 
+{% include section-navigation-tiles-simple.html type="Practice 03" %}
+* 練習曲 3
+* 練習曲 4
+* 練習曲 5
+* 練習曲 6
+* 練習曲 7
 
-- modern looking
-- lightweight
-- flexible when it comes to branding
-- has a collapsible sidebar to handle a lot of content
-- a robust search function 
-
-and this offered trough a Jekyll theme that is actively maintained. Apparently we where asking to much, since none of the themes that we found checked all of these boxes.
-
-
-We at ELIXIR Belgium had experience using the commonly used [Jekyll Documentation Theme](https://idratherbewriting.com/documentation-theme-jekyll/) and [Just the docs](https://github.com/just-the-docs/just-the-docs), and used this experience for the development of our own theme to check all the boxes we needed. 
 
