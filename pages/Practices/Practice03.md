@@ -1,6 +1,7 @@
 ﻿---
 title: 練習曲 3
 ---
+<script src="assets/js/script.js"></script>
 
 練習曲 3 new
 
