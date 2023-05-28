@@ -4,7 +4,7 @@ title: 練習曲
 練習曲
 
 {% include section-navigation-tiles-simple.html type="Practice 03" %}
-* 練習曲 3
+* [練習曲 3] (Practice03)
 * 練習曲 4
 * 練習曲 5
 * 練習曲 6
