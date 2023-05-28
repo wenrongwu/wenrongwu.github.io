@@ -1,7 +1,34 @@
 ﻿---
 title: 練習曲 3
 ---
+
 練習曲 3
+
+<script src="https://www.youtube.com/iframe_api"></script>
+<div id="player"></div>
+
+var player;
+function onYouTubeIframeAPIReady() {
+  player = new YT.Player('player', {
+    height: '360',
+    width: '640',
+    videoId: 'M7lc1UVf-VE',
+    events: {
+      'onReady': onPlayerReady,
+      'onStateChange': onPlayerStateChange
+    }
+  });
+}
+
+function onPlayerReady(event) {
+  event.target.playVideo();
+}
+
+function onPlayerStateChange(event) {
+  if (event.data == YT.PlayerState.ENDED) {
+    // Do something when video ends.
+  }
+}
 
 To keep the YouTube video playing on the browser after playing on an iframe, you can use the **YouTube Player API**. The API allows you to control the YouTube player using JavaScript and provides a way to listen for player events such as state changes, errors, and playback quality changes ⁴. 
 
@@ -27,7 +54,7 @@ function onYouTubeIframeAPIReady() {
   player = new YT.Player('player', {
     height: '360',
     width: '640',
-    videoId: 'M7lc1UVf-VE',
+    videoId: 'tchpSCkFdo0',
     events: {
       'onReady': onPlayerReady,
       'onStateChange': onPlayerStateChange
