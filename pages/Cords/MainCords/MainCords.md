@@ -1,7 +1,7 @@
 ﻿---
-title: C和弦
+title: 和弦
 ---
-C和弦
+和弦
 
 琴譜
 ![練習曲 3 琴譜](/assets/Piano/Exercise-03.svg){: height="400px"}
