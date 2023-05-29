@@ -62,11 +62,12 @@ subitems:
       - title: 小白花
         url: /events
   - title: 教學影帶
+    url: /Tutor
     subitems:
-      - title: About this theme
-        url: /about
-      - title: ELIXIR resources
-        url: /elixir_resources
+      - title: 生日快樂
+        url: /TutorHappyBirthday
+      - title: 小步舞曲
+        url: /TutorMinuet
       - title: Accessibility
         url: /accessibility
       - title: SEO
