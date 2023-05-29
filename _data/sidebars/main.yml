@@ -56,11 +56,12 @@ subitems:
           - title: Bm和弦
             url: /general_page_4
   - title: 初學曲譜
+    url: /Beginner
     subitems:
       - title: 生日快樂
-        url: /contributors
+        url: /HappyBirthday
       - title: 小白花
-        url: /events
+        url: /EdelWeiss
   - title: 教學影帶
     url: /Tutor
     subitems:
@@ -68,8 +69,5 @@ subitems:
         url: /TutorHappyBirthday
       - title: 小步舞曲
         url: /TutorMinuet
-      - title: Accessibility
-        url: /accessibility
-      - title: SEO
-        url: /seo
+
   
