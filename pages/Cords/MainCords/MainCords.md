@@ -1,7 +1,7 @@
 ﻿---
-title: 和弦
+title: 主要和弦
 ---
-和弦
+主要和弦
 
 琴譜
 ![練習曲 3 琴譜](/assets/Piano/Exercise-03.svg){: height="400px"}
