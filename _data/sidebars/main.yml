@@ -3,7 +3,7 @@
 # title_url:  /events
 subitems:
   - title: 主頁說明
-    url: /about
+    url: /README
     hr: true    
   - title: 練習曲
     url: /Practice
