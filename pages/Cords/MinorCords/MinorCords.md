@@ -6,8 +6,8 @@
 
 當然！以下是常用的小和弦（Minor Chords）及其根音：
 
-1. [C 小和弦：C-E♭-G]()
-2. [-D 小和弦：D-F-A]()
+1. [C 小和弦：C-E♭-G](C-MinorCord)
+2. [D 小和弦：D-F-A](D-MinorCord)
 3. [E 小和弦：E-G-B]()
 4. [F 小和弦：F-A♭-C]()
 5. [G 小和弦：G-B♭-D]()
