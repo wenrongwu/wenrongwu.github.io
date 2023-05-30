@@ -1,7 +1,7 @@
 ﻿---
-title: 練習曲
 ---
-練習曲
+<h2 align="center">練習曲</h2>
+
 
 * [練習曲 3](./Practice03.md)
 * [練習曲 4](./Practice04.md)

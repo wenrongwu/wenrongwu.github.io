@@ -22,10 +22,11 @@ search_exclude: false
 
 我將這些資料整理成線上資源並放在這網址，希望能對大家有所幫助。
 
+<p align="center">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 上一頁
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [下一頁](Practice)
-
+</p>
 
 

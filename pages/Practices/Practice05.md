@@ -1,8 +1,8 @@
 ﻿---
 ---
-練習曲 5
+<h3 align="center">練習曲 5</h3> 
 
-琴譜
+<h4>琴譜</h4>
 ![練習曲 3 琴譜](/assets/Piano/Exercise-03.svg){: height="400px"}
 
 
