@@ -1,5 +1,5 @@
 ﻿---
-title: 主頁說明
+title: 前言
 search_exclude: false
 ---  
 
