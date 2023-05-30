@@ -1,9 +1,11 @@
 ﻿---
 ---
-<h3 align="center">練習曲 3</h3> 
+<base target="_blank">
+<h3>練習曲 3</h3> 
 
 <h4>琴譜</h4>
 ![練習曲 3 琴譜](/assets/Piano/Exercise-03.png){: height="400px"}
+
 [PDF 琴譜](/assets/Piano/Exercise-03.pdf)
 <details>
   <summary>Click to expand!</summary>
