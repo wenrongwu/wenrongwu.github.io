@@ -1,8 +1,7 @@
 ﻿<p align="center">
 <img src="assets/img/ett_compact_logo.svg" width="100" float="center"/>
-<h2 align="center">吳老師音樂工作室 家庭篇</h2>
+<h3 align="center">吳老師音樂工作室 家庭篇</h3>
 </p>
-
 
 小妹是幼兒鋼琴老師，四姊因疫情在家閒置。
 自今年一月份開始，小妹主動提出教導四姊彈琴的建議。
@@ -16,10 +15,6 @@
 4. [教學影片](Tutor)
 
 我將這些資料整理成線上資源並放在這網址，希望能對大家有所幫助。
-
-- Item 1
-- Item 2
-- Item 3
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 上一頁

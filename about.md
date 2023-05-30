@@ -1,11 +1,9 @@
 ﻿---
 
-search_exclude: false
 ---  
-
 <p align="center">
 <img src="assets/img/ett_compact_logo.svg" width="100" float="center"/>
-<h2 align="center">吳老師音樂工作室 家庭篇</h2>
+<h3 align="center">吳老師音樂工作室 家庭篇</h3>
 </p>
 
 
@@ -22,11 +20,10 @@ search_exclude: false
 
 我將這些資料整理成線上資源並放在這網址，希望能對大家有所幫助。
 
-<p align="center">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 上一頁
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [下一頁](Practice)
-</p>
+
 
 
