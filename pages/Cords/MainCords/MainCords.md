@@ -1,18 +1,20 @@
 ﻿---
-title: 主要和弦
 ---
-主要和弦
+<h3>主要和弦</h3>主要和弦
 
-琴譜
-![練習曲 3 琴譜](/assets/Piano/Exercise-03.svg){: height="400px"}
+以下是常用的主要和弦（Major Chords）及其根音：
 
-From youTube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tchpSCkFdo0" title="練習曲 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+1. [C 主要和弦：C-E-G]()
+1. [D 主要和弦：D-F#-A]()
+1. [E 主要和弦：E-G#-B]()
+1. [F 主要和弦：F-A-C]()
+1. [G 主要和弦：G-B-D]()
+1. [A 主要和弦：A-C#-E]()
+1. [B 主要和弦：B-D#-F#]()
 
-
-
-
-
-
-
-
+這些是基於自然音階的主要和弦，每個和弦的根音是該和弦的名稱。你可以根據需要在鋼琴上找到這些音，並進行和弦演奏或音樂創作。記住，你也可以使用不同的和弦變體或擴展和弦來創造更豐富的聲音。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[上一頁](Cords)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[下一頁](C-MainCord)

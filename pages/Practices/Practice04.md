@@ -2,7 +2,7 @@
 ---
 <h4>練習曲 4</h4> 
 
-![練習曲 4 琴譜](/assets/Piano/Exercise-03.png){:  width="600px"}
+![練習曲 4 琴譜](/assets/Piano/Exercise-04.png){:  width="600px"}
 
 [下載琴譜](/assets/Piano/Exercise-04.pdf)
 

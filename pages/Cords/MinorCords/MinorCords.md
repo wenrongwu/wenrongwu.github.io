@@ -1,15 +1,26 @@
 ﻿---
-title: 小和弦
+
 ---
+<h3>D小和弦</h3>
 小和弦
 
-琴譜
-![練習曲 3 琴譜](/assets/Piano/Exercise-03.svg){: height="400px"}
+當然！以下是常用的小和弦（Minor Chords）及其根音：
 
-From youTube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tchpSCkFdo0" title="練習曲 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+1. [C 小和弦：C-E♭-G]()
+2. [-D 小和弦：D-F-A]()
+3. [E 小和弦：E-G-B]()
+4. [F 小和弦：F-A♭-C]()
+5. [G 小和弦：G-B♭-D]()
+6. [A 小和弦：A-C-E]()
+7. [B 小和弦：B-D-F#]()
 
+這些小和弦是主要和弦的變化，其中根音和第三音之間的音程是小三度。小和弦通常具有比主要和弦更寂靜、憂傷或柔和的音色。你可以在鋼琴上找到這些音，並使用它們來創作或演奏音樂。同樣地，你也可以根據需要使用不同的和弦變體或擴展和弦來豐富音樂的表現力。
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[上一頁](D-MainCord)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[下一頁](C-MinorCord)
 
 
 
