@@ -25,6 +25,6 @@ search_exclude: false
 <p style="text-align: center;">This line will be centered</p>
 
 | Previous Page |  | Next Page |
-|-------|--------|---------|
+| ------- | -------- | --------- |
 
 
