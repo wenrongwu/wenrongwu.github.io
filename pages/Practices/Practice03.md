@@ -1,6 +1,5 @@
 ﻿---
 ---
-<base target="_blank">
 <h3>練習曲 3</h3> 
 ![練習曲 3 琴譜](/assets/Piano/Exercise-03.png){: width="400px"}
 
