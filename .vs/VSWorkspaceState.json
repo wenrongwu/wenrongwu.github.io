@@ -1,8 +1,14 @@
 {
   "ExpandedNodes": [
     "",
+    "\\pages",
+    "\\pages\\Beginner",
+    "\\pages\\Chords",
+    "\\pages\\Chords\\MainChords",
+    "\\pages\\Chords\\MinorChords",
     "\\_data",
     "\\_data\\sidebars"
   ],
+  "SelectedNode": "\\pages\\Beginner\\Beginner.md",
   "PreviewInSolutionExplorer": false
 }
