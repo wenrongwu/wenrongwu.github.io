@@ -3,7 +3,7 @@
 # title_url:  /events
 subitems:
   - title: 主頁說明
-    url: /README
+    url: /
     hr: true    
   - title: 練習曲
     url: /Practice
@@ -19,7 +19,7 @@ subitems:
       - title: 練習曲 7
         url: /Practice07
   - title: 和弦
-    url: Cords
+    url: /Cords
     subitems:
       - title: 主要和弦
         url: /MainCords
