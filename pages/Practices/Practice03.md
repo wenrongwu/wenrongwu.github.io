@@ -1,9 +1,10 @@
 ﻿---
 ---
-<h3>練習曲 3</h3> 
+<h4>練習曲 3</h4> 
 ![練習曲 3 琴譜](/assets/Piano/Exercise-03.png){: width="600px"}
 
 [下載琴譜](/assets/Piano/Exercise-03.pdf)
+
 <details>
   <summary>YouTube 影帶</summary>
 <ol>
@@ -11,7 +12,6 @@
 
 </ol>
 </details>
-
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [上一頁](Practice)
