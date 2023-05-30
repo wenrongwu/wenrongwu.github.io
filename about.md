@@ -22,7 +22,7 @@ search_exclude: false
 
 我將這些資料整理成線上資源並放在這網址，希望能對大家有所幫助。
 
-<p style="text-align: center;">This line will be centered</p>
+<p align="center">This line will be centered</p>
 
 | Previous Page |  | Next Page |
 | ------- | -------- | --------- |
