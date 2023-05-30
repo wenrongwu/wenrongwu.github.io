@@ -1,5 +1,5 @@
 ﻿---
-title: 前言
+
 search_exclude: false
 ---  
 # 前言 Title
