@@ -19,42 +19,12 @@ subitems:
       - title: 練習曲 7
         url: /Practice07
   - title: 和弦
-    url: /Cords
+    url: /Chords
     subitems:
       - title: 主要和弦
-        url: /MainCords
-        subitems:
-          - title: C和弦
-            url: /C-MainCord
-          - title: D和弦
-            url: /D-MainCord
-          - title: E和弦
-            url: /general_page_3
-          - title: F和弦
-            url: /general_page_4
-          - title: G和弦
-            url: /general_page_4
-          - title: A和弦
-            url: /general_page_4
-          - title: B和弦
-            url: /general_page_4
+        url: /MainChords
       - title: 小和弦
-        url: /MinorCords
-        subitems:
-          - title: Cm和弦
-            url: /C-MinorCord
-          - title: Dm和弦
-            url: /D-MinorCord
-          - title: Em和弦
-            url: /general_page_3
-          - title: Fm和弦
-            url: /general_page_4
-          - title: Gm和弦
-            url: /general_page_4
-          - title: Am和弦
-            url: /general_page_4
-          - title: Bm和弦
-            url: /general_page_4
+        url: /MinorChords
   - title: 初學曲譜
     url: /Beginner
     subitems:
