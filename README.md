@@ -1,6 +1,6 @@
 ﻿<p align="center">
 <img src="assets/img/ett_compact_logo.svg" width="100" float="center"/>
-<h1 align="center">吳老師音樂工作室 家庭篇</h1>
+<h2 align="center">吳老師音樂工作室 家庭篇</h2>
 </p>
 
 
