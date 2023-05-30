@@ -9,7 +9,10 @@ title: 練習曲 5
 From youTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tchpSCkFdo0" title="練習曲 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[上一頁](Practice04)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[下一頁](Practice06)
 
 
 
