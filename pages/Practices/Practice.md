@@ -8,7 +8,11 @@
 * [練習曲 5](./Practice05.md)
 * [練習曲 6](./Practice06.md)
 * [練習曲 7](./Practice07.md)
-
+* [練習曲 12](./Practice12.md)
+* [練習曲 13](./Practice13.md)
+* [練習曲 14](./Practice14.md)
+* [練習曲 17](./Practice17.md)
+* [練習曲 18](./Practice18.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [上一頁](about)

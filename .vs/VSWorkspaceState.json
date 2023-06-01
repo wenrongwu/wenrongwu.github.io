@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\_data",
+    "\\pages",
+    "\\pages\\Practices",
     "\\_data\\sidebars"
   ],
+  "SelectedNode": "\\pages\\Practices\\Practice03.md",
   "PreviewInSolutionExplorer": false
 }

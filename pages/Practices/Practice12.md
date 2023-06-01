@@ -1,10 +1,10 @@
 ﻿---
 
 ---
-<h4>練習曲 7</h4> 
-![練習曲 7 琴譜](/assets/Piano/Exercise-07.png){: width="600px"}
+<h4>練習曲 12</h4> 
+![練習曲 12 琴譜](/assets/Piano/Exercise-12.png){: width="600px"}
 
-[下載琴譜](/assets/Piano/Exercise-07.pdf)
+[下載琴譜](/assets/Piano/Exercise-12.pdf)
 
 <details>
   <summary>YouTube 影帶</summary>
@@ -16,9 +16,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[上一頁](Practice06)
+[上一頁](Practice07)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[下一頁](Practice12)
+[下一頁](Practice13)
 
 
 
