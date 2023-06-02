@@ -71,8 +71,30 @@ subitems:
   - title: 教學影帶
     url: /Tutor
     subitems:
-      - title: 生日快樂
+      - title: 鋼琴初步
+        url: /T-Piano100
+      - title: Do Re Mi Fa Sol La Si
+        url: /T-DoReMiFaSolLaSi
+      - title: 練習曲
+        url: /T-Practice12
+      - title: 康康舞
+        url: /T-ConCon 
+      - title: 波西米亞之歌
+        url: /T-Bohemian
+      - title: 月光下
+        url: /T-Moon
+      - title: 散搭盧淇亞
+        url: /T-SantaLucia
+      - title: 散搭盧淇亞-1
+        url: /T-SantaLucia-1 
+      - title: 生日快樂歌
         url: /T-HappyBirthday
+      - title: 蝴蝶
+        url: /T-Butterfly
+      - title: 小白花
+        url: /T-EdelWeiss
+      - title: 電影鐵達尼號主題曲
+        url: /T-MyHeartWillGoOn
       - title: 小步舞曲
         url: /T-Minuet
 
