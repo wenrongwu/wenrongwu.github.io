@@ -17,7 +17,7 @@
 <details>
   <summary>MuseScore 影帶</summary>
 <ol>
-<iframe width="100%" height="394" src="https://musescore.com/user/65457238/scores/11042299/embed" frameborder="0" allowfullscreen allow="autoplay; fullscreen"></iframe><span><a href="https://musescore.com/user/65457238/scores/11042299/s/5rHJro" target="_blank">Exercise-07</a> by <a href="https://musescore.com/user/65457238">wenrongwu</a></span>
+<a href="https://musescore.com/user/65457238/scores/11042299?share=copy_link" target="_blank">Open to Play</a>
 </ol>
 </details>
 
