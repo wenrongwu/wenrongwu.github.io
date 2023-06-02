@@ -4,7 +4,8 @@
 <h4>練習曲 14</h4> 
 ![練習曲 14 琴譜](/assets/Piano/Exercise-14.png){: width="600px"}
 
-[下載琴譜](/assets/Piano/Exercise-14.pdf)
+<a href="/assets/Piano/Exercise-14.pdf" target="_blank">下載琴譜</a>
+
 
 <details>
   <summary>YouTube 影帶</summary>
@@ -13,6 +14,14 @@
 
 </ol>
 </details>
+
+<details>
+  <summary>MuseScore 影帶</summary>
+<ol>
+<iframe width="100%" height="394" src="https://musescore.com/user/65457238/scores/11042017/embed" frameborder="0" allowfullscreen allow="autoplay; fullscreen"></iframe><span><a href="https://musescore.com/user/65457238/scores/11042017/s/wqJ0Et" target="_blank">Exercise-14</a> by <a href="https://musescore.com/user/65457238">wenrongwu</a></span>
+</ol>
+</details>
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

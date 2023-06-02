@@ -3,7 +3,8 @@
 <h4>練習曲 6</h4> 
 ![練習曲 6 琴譜](/assets/Piano/Exercise-06.png){: width="600px"}
 
-[下載琴譜](/assets/Piano/Exercise-06.pdf)
+<a href="/assets/Piano/Exercise-06.pdf" target="_blank">下載琴譜</a>
+
 
 <details>
   <summary>YouTube 影帶</summary>
@@ -12,6 +13,14 @@
 
 </ol>
 </details>
+
+<details>
+  <summary>MuseScore 影帶</summary>
+<ol>
+<iframe width="100%" height="394" src="https://musescore.com/user/65457238/scores/10953775/embed" frameborder="0" allowfullscreen allow="autoplay; fullscreen"></iframe><span><a href="https://musescore.com/user/65457238/scores/10953775/s/rPGn1V" target="_blank">Exercise-06</a> by <a href="https://musescore.com/user/65457238">wenrongwu</a></span>
+</ol>
+</details>
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
