@@ -2,26 +2,27 @@
 ---
 <h3>吳老師鋼琴教學</h3>
 
-1. [Piano100](./Practice03.md)
-2. [HappyBirthTutor](./Practice04.md)
-1. [MyHeartWillGoOn](./Practice05.md)
-1. [Butterfly](./Practice06.md)
-1. [Bohemian](./Practice07.md)
-1. [ConCon](./Practice12.md)
-1. [EdelWeiss](./Practice13.md)
-1. [Practice12](./Practice14.md)
-1. [Moon](./Practice17.md)
-1. [DoReMiFaSolLaSi](./Practice18.md)
-1. [Minuet](./Practice18.md)
-1. [SantaLucia-1](./Practice18.md)
-1. [SantaLucia](./Practice18.md)
+1. [鋼琴初步](./T-Piano100)
+1. [Do Re Mi Fa Sol La Si](./T-DoReMiFaSolLaSi)
+1. [練習曲](./T-Practice12)
+1. [康康舞](./T-ConCon)
+1. [波西米亞之歌](./T-Bohemian)
+1. [月光下](./T-Moon)
+1. [散搭盧淇亞](./T-SantaLucia)
+1. [散搭盧淇亞-1](./T-SantaLucia-1)
+1. [生日快樂歌](./T-HappyBirthday)
+1. [蝴蝶](./T-Butterfly)
+1. [小白花](./T-EdelWeiss)
+1. [電影鐵達尼號主題曲](./T-MyHeartWillGoOn)
+1. [小步舞曲](./T-Minuet)
 
 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[上一頁](about)
+[上一頁](B-Romance-2)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[下一頁](Practice03)
+[下一頁](T-Piano100)
 
 
 

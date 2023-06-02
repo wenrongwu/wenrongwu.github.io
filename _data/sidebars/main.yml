@@ -72,8 +72,8 @@ subitems:
     url: /Tutor
     subitems:
       - title: 生日快樂
-        url: /TutorHappyBirthday
+        url: /T-HappyBirthday
       - title: 小步舞曲
-        url: /TutorMinuet
+        url: /T-Minuet
 
   
