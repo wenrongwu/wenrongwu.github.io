@@ -18,6 +18,8 @@
 <details>
   <summary>MuseScore 影帶</summary>
 <ol>
+<a href="https://musescore.com/user/65457238/scores/11042050?share=copy_link" target="_blank">Click</a>
+
 <iframe width="100%" height="394" src="https://musescore.com/user/65457238/scores/11042050/embed" frameborder="0" allowfullscreen allow="autoplay; fullscreen"></iframe><span><a href="https://musescore.com/user/65457238/scores/11042050/s/YxAaEY" target="_blank">Exercise-18</a> by <a href="https://musescore.com/user/65457238">wenrongwu</a></span>
 </ol>
 </details>
