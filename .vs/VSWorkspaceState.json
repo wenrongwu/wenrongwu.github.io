@@ -1,9 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\pages",
+    "\\pages\\Beginner",
     "\\pages\\Chords\\MainChords",
-    "\\pages\\Chords\\MinorChords"
+    "\\pages\\Chords\\MinorChords",
+    "\\_data\\sidebars"
   ],
-  "SelectedNode": "\\pages",
+  "SelectedNode": "\\pages\\Beginner\\B-TheIndianCabin.md",
   "PreviewInSolutionExplorer": false
 }
