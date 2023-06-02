@@ -1,10 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
-    "\\assets\\Piano",
-    "\\pages"
+    "\\pages\\Chords\\MainChords",
+    "\\pages\\Chords\\MinorChords"
   ],
-  "SelectedNode": "\\pages\\Practices",
+  "SelectedNode": "\\pages",
   "PreviewInSolutionExplorer": false
 }
