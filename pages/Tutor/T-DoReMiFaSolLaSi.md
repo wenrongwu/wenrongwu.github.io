@@ -3,9 +3,7 @@
 吳老師鋼琴教學 - Do Re Mi Fa Sol La Si
 
 From youTube
-https://youtube.com/shorts/V3k7qCoWJ8I?feature=share
-
-<iframe width="320" height="560" src="https://www.youtube.com/embed/VvqL_rvC2RQ" title="Do Re Mi Fa Sol La Si" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="320" height="560" src="https://www.youtube.com/embed/bKIZAUmQ-Es" title="Do Re Mi Fa Sol La Si" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
