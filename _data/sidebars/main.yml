@@ -93,9 +93,12 @@ subitems:
         url: /T-Butterfly
       - title: 小白花
         url: /T-EdelWeiss
-      - title: 鐵達尼號主題曲
-        url: /T-MyHeartWillGoOn
       - title: 小步舞曲
         url: /T-Minuet
+      - title: 鐵達尼號主題曲
+        url: /T-MyHeartWillGoOn
+      - title: 鐵達尼號主題曲-2
+        url: /T-MyHeartWillGoOn-2
+
 
   

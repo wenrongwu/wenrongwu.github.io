@@ -14,8 +14,9 @@
 1. [生日快樂歌](./T-HappyBirthday)
 1. [蝴蝶](./T-Butterfly)
 1. [小白花](./T-EdelWeiss)
-1. [電影鐵達尼號主題曲](./T-MyHeartWillGoOn)
 1. [小步舞曲](./T-Minuet)
+1. [電影鐵達尼號主題曲](./T-MyHeartWillGoOn)
+1. [電影鐵達尼號主題曲-2](./T-MyHeartWillGoOn-2)
 
 
 
