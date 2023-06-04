@@ -7,7 +7,8 @@ Gem::Specification.new do |spec|
   spec.email         = ["bedro@psb.vib-ugent.be\n"]
 
   spec.summary       = "Flexible Jekyll theme using bootstrap 5 as CSS framework."
-  spec.homepage      = "https://elixir-belgium.github.io/elixir-toolkit-theme/"
+  spec.homepage      = "https://wenrongwu.github.io/"
+  #spec.homepage      = "https://elixir-belgium.github.io/elixir-toolkit-theme/"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README)!i) }
