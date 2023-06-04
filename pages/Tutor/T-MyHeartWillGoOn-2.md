@@ -9,7 +9,7 @@ keywords: 吳老師鋼琴教學 - 電影鐵達尼號主題曲-2
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [上一頁](T-MyHeartWillGoOn)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-最後一頁
+(最後一頁)
 
 
 
