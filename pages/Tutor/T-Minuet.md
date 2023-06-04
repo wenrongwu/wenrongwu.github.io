@@ -8,7 +8,9 @@ keywords: 吳老師鋼琴教學 - 小步舞曲
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[上一頁](T-MyHeartWillGoOn)
+[上一頁](T-EdelWeiss)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[下一頁](T-MyHeartWillGoOn)
 
 
 

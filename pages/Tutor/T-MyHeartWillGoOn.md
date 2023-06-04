@@ -7,9 +7,9 @@ keywords: 吳老師鋼琴教學 - 電影鐵達尼號主題曲
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[上一頁](T-EdelWeiss)
+[上一頁](T-Minuet)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[下一頁](T-Minuet)
+[下一頁](T-MyHeartWillGoOn-2)
 
 
 
