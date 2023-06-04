@@ -11,7 +11,7 @@ keywords: 初學樂曲 - 小步舞曲
 <details>
   <summary>YouTube 影帶</summary>
 <ol>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YzEIEDB9ydA" title="小步舞曲" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/34-OXiQs4Dw" title="小步舞曲" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </ol>
 </details>
 
