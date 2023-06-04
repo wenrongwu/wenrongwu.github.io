@@ -1,5 +1,5 @@
 ﻿---
-
+keywords: 吳老師鋼琴教學 - Do Re Mi Fa Sol La Si
 ---
 吳老師鋼琴教學 - Do Re Mi Fa Sol La Si
 

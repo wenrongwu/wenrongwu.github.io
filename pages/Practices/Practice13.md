@@ -1,5 +1,5 @@
 ﻿---
-
+keywords: 吳老師鋼琴教學 - 練習曲 13
 ---
 <h4>練習曲 13</h4> 
 ![練習曲 13 琴譜](/assets/Piano/Exercise-13.png){: width="600px"}

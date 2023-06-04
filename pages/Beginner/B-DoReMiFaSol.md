@@ -1,4 +1,5 @@
 ﻿---
+keywords: 初學樂曲 - Do Re Mi Fa Sol
 ---
 初學樂曲 - Do Re Mi Fa Sol
 

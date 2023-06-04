@@ -1,5 +1,5 @@
 ﻿---
-
+keywords: 吳老師鋼琴教學 - 練習曲 14
 ---
 <h4>練習曲 14</h4> 
 ![練習曲 14 琴譜](/assets/Piano/Exercise-14.png){: width="600px"}

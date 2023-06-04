@@ -1,5 +1,5 @@
 ﻿---
-
+keywords: 吳老師鋼琴教學 - 練習曲 7
 ---
 <h4>練習曲 7</h4> 
 ![練習曲 7 琴譜](/assets/Piano/Exercise-07.png){: width="600px"}
