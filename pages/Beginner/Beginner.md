@@ -18,7 +18,7 @@ keywords: 前言
 1. [小步舞曲](./B-Minuet)
 1. [愛的羅曼史 (1)](./B-Romance)
 1. [愛的羅曼史 (2)](./B-Romance-2)
-
+1. [鐵達尼號主題曲](./B-MyHeartWillGoOn)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
