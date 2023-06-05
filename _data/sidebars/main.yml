@@ -35,6 +35,10 @@ subitems:
         url: /MainChords
       - title: 小和弦
         url: /MinorChords
+      - title: 增強和弦
+        url: /AugChords
+      - title: 減弱和弦
+        url: /DimChords
   - title: 初學曲譜
     url: /Beginner
     subitems:
