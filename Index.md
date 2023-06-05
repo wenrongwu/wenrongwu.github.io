@@ -1,7 +1,11 @@
-﻿<p align="center">
+﻿---
+keywords: 前言
+---  
+<p align="center">
 <img src="assets/img/ett_compact_logo.svg" width="100" float="center"/>
 <h3 align="center">吳老師音樂工作室 家庭篇</h3>
 </p>
+
 
 小妹是幼兒鋼琴老師，四姊因疫情賦閒在家。
 自今年一月份開始，小妹主動提出教導四姊彈琴的建議。
@@ -17,14 +21,10 @@
 我將這些資料整理成線上資源並放在這網址，希望能對大家有所幫助。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 (首頁)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [下一頁](Practice)
 
-<br>
-<br>
-<br>
-<br>
-<div align=center>
-[![theme badge](https://img.shields.io/badge/ELIXIR%20toolkit%20theme-jekyll-blue?color=0d6efd)](https://github.com/ELIXIR-Belgium/elixir-toolkit-theme)
-</div>
+
+
