@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\pages",
+    "\\pages\\about",
+    "\\pages\\Beginner",
+    "\\pages\\Chords\\MainChords",
+    "\\pages\\Chords\\MinorChords",
     "\\_data\\sidebars"
   ],
   "SelectedNode": "\\README.md",
