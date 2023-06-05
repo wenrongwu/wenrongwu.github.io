@@ -10,14 +10,14 @@ keywords: 初學樂曲 - 蝴蝶
 <details>
   <summary>YouTube 影帶</summary>
 <ol>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ohXtnIqv_aI" title="蝴蝶" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aS6qfy8aQPM" title="蝴蝶" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </ol>
 </details>
 
 <details>
   <summary>MuseScore 影帶</summary>
 <ol>
-<a href="https://musescore.com/user/65457238/scores/11041882?share=copy_link" target="_blank">Open to Play</a>
+<a href="https://musescore.com/user/65457238/scores/11082127?share=copy_link" target="_blank">Open to Play</a>
 </ol>
 </details>
 
