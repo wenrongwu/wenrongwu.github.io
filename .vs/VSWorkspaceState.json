@@ -1,7 +1,15 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\pages",
+    "\\pages\\Chords",
+    "\\pages\\Chords\\AugChords",
+    "\\pages\\Chords\\DimChords",
+    "\\pages\\Chords\\MainChords",
+    "\\pages\\Chords\\MinorChords",
+    "\\_data\\sidebars"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\pages\\Chords\\Chords.md",
   "PreviewInSolutionExplorer": false
 }
