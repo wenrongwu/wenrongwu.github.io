@@ -11,7 +11,7 @@ keywords: 初學樂曲 - 愛的羅曼史
 <details>
   <summary>YouTube 影帶</summary>
 <ol>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ewQSowSDtz4" title="愛的羅曼史" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aeWSQV0cADg" title="愛的羅曼史" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </ol>
 </details>
 

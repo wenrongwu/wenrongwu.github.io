@@ -2,14 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\pages",
-    "\\pages\\Chords",
+    "\\assets\\Piano",
     "\\pages\\Chords\\AugChords",
     "\\pages\\Chords\\DimChords",
     "\\pages\\Chords\\MainChords",
     "\\pages\\Chords\\MinorChords",
+    "\\pages\\Practices",
     "\\_data\\sidebars"
   ],
-  "SelectedNode": "\\pages\\Chords\\Chords.md",
+  "SelectedNode": "\\pages",
   "PreviewInSolutionExplorer": false
 }
