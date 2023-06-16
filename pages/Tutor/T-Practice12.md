@@ -9,7 +9,7 @@ keywords: 吳老師鋼琴教學 - 練習曲
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [上一頁](T-DoReMiFaSolLaSi)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[下一頁](T-ConCon)
+[下一頁](T-PracticeA06)
 
 
 
