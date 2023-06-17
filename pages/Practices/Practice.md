@@ -14,7 +14,7 @@ keywords: 吳老師鋼琴教學 - 練習曲
 1. [練習曲 14](./Practice14.md)
 1. [練習曲 17](./Practice17.md)
 1. [練習曲 18](./Practice18.md)
-
+1. [練習曲 19](./PracticeA06.md)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

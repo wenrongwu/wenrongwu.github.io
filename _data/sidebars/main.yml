@@ -28,6 +28,8 @@ subitems:
         url: /Practice17
       - title: 練習曲 18
         url: /Practice18
+      - title: 練習曲 19
+        url: /PracticeA06
   - title: 和弦
     url: /Chords
     subitems:
