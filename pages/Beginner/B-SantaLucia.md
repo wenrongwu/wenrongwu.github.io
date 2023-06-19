@@ -3,14 +3,14 @@ keywords: 初學樂曲 - 散搭盧淇亞
 ---
 初學樂曲 - 散搭盧淇亞
 
-![散搭盧淇亞](/assets/Piano/B-SantaLucia.png){: width="600px"}
+![散搭盧淇亞](/assets/Piano/B-SantaLucia-2.png){: width="600px"}
 
-<a href="/assets/Piano/B-SantaLucia.pdf" target="_blank">下載琴譜</a>
+<a href="/assets/Piano/B-SantaLucia-2.pdf" target="_blank">下載琴譜</a>
 
 <details>
   <summary>YouTube 影帶</summary>
 <ol>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OcoKJGn7mHE" title="散搭盧淇亞" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5foXb_nHsNk" title="散搭盧淇亞" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </ol>
 </details>
 
