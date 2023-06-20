@@ -3,14 +3,14 @@ keywords: 初學樂曲 - 月光下
 ---
 初學樂曲 - 月光下
 
-![月光下](/assets/Piano/B-Moon.png){: width="600px"}
+![月光下](/assets/Piano/B-Moon-2.png){: width="600px"}
 
-<a href="/assets/Piano/B-Moon.pdf" target="_blank">下載琴譜</a>
+<a href="/assets/Piano/B-Moon-2.pdf" target="_blank">下載琴譜</a>
 
 <details>
   <summary>YouTube 影帶</summary>
 <ol>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E_VnAzVDaWk" title="月光下" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R781t8gzToA" title="月光下" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </ol>
 </details>
 
