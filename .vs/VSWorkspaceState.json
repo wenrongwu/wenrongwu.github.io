@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\assets\\Piano",
+    "\\pages",
+    "\\pages\\Beginner"
   ],
-  "SelectedNode": "\\pages",
+  "SelectedNode": "\\assets\\Piano\\Exercise-17.png",
   "PreviewInSolutionExplorer": false
 }
