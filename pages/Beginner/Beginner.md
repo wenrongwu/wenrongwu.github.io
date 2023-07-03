@@ -21,6 +21,7 @@ keywords: 前言
 1. [快樂頌](./B-HappySong)
 1. [春之歌](./B-SpringSong)
 1. [鐵達尼號主題曲](./B-MyHeartWillGoOn)
+1. [山上音樂家](./B-MusicianOnTheMountain)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
