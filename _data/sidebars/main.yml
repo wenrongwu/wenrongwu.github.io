@@ -80,6 +80,8 @@ subitems:
         url: /B-SpringSong
       - title: 鐵達尼號主題曲
         url: /B-MyHeartWillGoOn
+      - title: 山上音樂家
+        url: /B-MusicianOnTheMountain
   - title: 教學影帶
     url: /Tutor
     subitems:
@@ -113,6 +115,10 @@ subitems:
         url: /T-MyHeartWillGoOn
       - title: 鐵達尼號主題曲-2
         url: /T-MyHeartWillGoOn-2
+      - title: 山上音樂家
+        url: /T-MusicianOnTheMountain
+      - title: 12個鋼琴音階說明
+        url: /T-12TonesStairLadder
 
 
   

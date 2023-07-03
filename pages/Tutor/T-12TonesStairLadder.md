@@ -8,7 +8,7 @@ keywords: 吳老師鋼琴教學 - 12個鋼琴音階說明
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [上一頁](T-MusicianOnTheMountain)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[下一頁](T-ConCon)
+[最後一頁]
 
 
 
