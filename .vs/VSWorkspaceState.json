@@ -2,10 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\assets",
+    "\\assets\\js",
     "\\assets\\Piano",
-    "\\pages",
-    "\\pages\\Beginner"
+    "\\pages\\Beginner",
+    "\\pages\\Chords\\AugChords",
+    "\\pages\\Chords\\DimChords",
+    "\\pages\\Chords\\MainChords",
+    "\\pages\\Chords\\MinorChords"
   ],
-  "SelectedNode": "\\assets\\Piano\\Exercise-17.png",
+  "SelectedNode": "\\assets\\Piano\\B-MusicianOnTheMountain.png",
   "PreviewInSolutionExplorer": false
 }
