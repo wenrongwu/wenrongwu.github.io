@@ -22,10 +22,11 @@ keywords: 前言
 1. [春之歌](./B-SpringSong)
 1. [鐵達尼號主題曲](./B-MyHeartWillGoOn)
 1. [山上音樂家](./B-MusicianOnTheMountain)
+1. [山上音樂家-2](./B-MusicianOnTheMountain2)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[上一頁](Practice18)
+[上一頁](PracticeA06)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [下一頁](B-DoReMiFaSol.md)
 
