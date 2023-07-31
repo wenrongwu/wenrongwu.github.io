@@ -82,6 +82,8 @@ subitems:
         url: /B-MyHeartWillGoOn
       - title: 山上音樂家
         url: /B-MusicianOnTheMountain
+      - title: 山上音樂家-2
+        url: /B-MusicianOnTheMountain2
   - title: 教學影帶
     url: /Tutor
     subitems:
@@ -117,6 +119,8 @@ subitems:
         url: /T-MyHeartWillGoOn-2
       - title: 山上音樂家
         url: /T-MusicianOnTheMountain
+      - title: 山上音樂家-2
+        url: /T-MusicianOnTheMountain2
       - title: 12個鋼琴音階說明
         url: /T-12TonesStairLadder
 

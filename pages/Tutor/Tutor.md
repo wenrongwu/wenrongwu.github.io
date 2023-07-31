@@ -19,6 +19,7 @@ keywords: 吳老師鋼琴教學
 1. [電影鐵達尼號主題曲-2](./T-MyHeartWillGoOn-2)
 1. [哈農練習曲 6](./T-PracticeA06)
 1. [山上音樂家](./T-MusicianOnTheMountain)
+1. [山上音樂家-2](./T-MusicianOnTheMountain2)
 1. [12個鋼琴音階說明](./T-12TonesStairLadder)
 
 
