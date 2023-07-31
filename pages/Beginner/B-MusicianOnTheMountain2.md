@@ -3,7 +3,7 @@ keywords: 初學樂曲 - 山上音樂家-2
 ---
 初學樂曲 - 山上音樂家-2
 
-![山上音樂家](/assets/Piano/B-MusicianOnTheMountain.png){: width="600px"}
+![山上音樂家](/assets/Piano/B-MusicianOnTheMountain2.png){: width="600px"}
 
 <a href="/assets/Piano/B-MusicianOnTheMountain2.pdf" target="_blank">下載琴譜</a>
 
