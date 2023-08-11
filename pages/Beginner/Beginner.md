@@ -23,6 +23,7 @@ keywords: 前言
 1. [鐵達尼號主題曲](./B-MyHeartWillGoOn)
 1. [山上音樂家](./B-MusicianOnTheMountain)
 1. [山上音樂家-2](./B-MusicianOnTheMountain2)
+1. [山上音樂家-雙人合奏](./B-MusicianOnTheMountainTwo) 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

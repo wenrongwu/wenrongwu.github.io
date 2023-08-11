@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    "\\pages"
+    "",
+    "\\assets",
+    "\\pages",
+    "\\pages\\Beginner",
+    "\\_data\\sidebars"
   ],
+  "SelectedNode": "\\pages\\Beginner\\B-MusicianOnTheMountain2.md",
   "PreviewInSolutionExplorer": false
 }

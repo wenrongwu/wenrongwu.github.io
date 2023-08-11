@@ -84,6 +84,8 @@ subitems:
         url: /B-MusicianOnTheMountain
       - title: 山上音樂家-2
         url: /B-MusicianOnTheMountain2
+      - title: 山上音樂家-雙人合奏
+        url: /B-MusicianOnTheMountainTwo
   - title: 教學影帶
     url: /Tutor
     subitems:
