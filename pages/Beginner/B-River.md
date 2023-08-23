@@ -26,7 +26,7 @@ keywords: 初學樂曲 - 河流
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [上一頁](B-Star)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[下一頁](B-Butterfly)
+[下一頁](B-Kickboxing)
 
 
 

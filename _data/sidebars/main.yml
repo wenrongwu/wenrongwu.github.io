@@ -64,6 +64,8 @@ subitems:
         url: /B-Star
       - title: 河流
         url: /B-River
+      - title: 跆拳道
+        url: /B-Kickboxing
       - title: 蝴蝶
         url: /B-Butterfly
       - title: 小白花
