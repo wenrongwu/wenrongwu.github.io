@@ -89,13 +89,13 @@ subitems:
       - title: 山上音樂家-雙人合奏
         url: /B-MusicianOnTheMountainTwo
       - title: 喀什喀爾舞曲
-        url: /B-喀什喀爾舞曲
+        url: /B-KashkarDance
       - title: 往事難忘
-        url: /B-往事難忘一
+        url: /B-Unforgettablepast
       - title: 往事難忘-2
-        url: /B-往事難忘二
+        url: /B-Unforgettablepast2
       - title: 往事難忘-雙人合奏
-        url: /B-往事難忘合奏
+        url: /B-UnforgettablepastTwo
   - title: 教學影帶
     url: /Tutor
     subitems:
