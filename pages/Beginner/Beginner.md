@@ -28,7 +28,7 @@ keywords: 前言
 1. [喀什喀爾舞曲](./B-喀什喀爾舞曲)
 1. [往事難忘](./B-往事難忘)
 1. [往事難忘-2](./B-往事難忘2)
-1. [往事難忘-雙人合奏](./B-B-往事難忘Tw)
+1. [往事難忘-雙人合奏](./B-B-往事難忘Two)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
