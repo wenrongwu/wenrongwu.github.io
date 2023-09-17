@@ -3,7 +3,7 @@ keywords: 初學樂曲 - 喀什喀爾舞曲
 ---
 初學樂曲 - 喀什喀爾舞曲
 
-![喀什喀爾舞曲](/assets/Piano/B-MusicianOnTheMountain2.png){: width="600px"}
+![喀什喀爾舞曲](/assets/Piano/B-喀什喀爾舞曲.png){: width="600px"}
 
 <a href="/assets/Piano/B-喀什喀爾舞曲.pdf" target="_blank">下載琴譜</a>
 
