@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\pages\\Practices"
+    "\\pages\\Chords\\AugChords",
+    "\\pages\\Chords\\DimChords",
+    "\\pages\\Chords\\MainChords",
+    "\\pages\\Chords\\MinorChords"
   ],
-  "SelectedNode": "\\pages",
   "PreviewInSolutionExplorer": false
 }
