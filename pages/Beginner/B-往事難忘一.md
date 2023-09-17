@@ -1,7 +1,7 @@
 ﻿---
-keywords: 初學樂曲 - 往事難忘一
+keywords: 初學樂曲 - 往事難忘
 ---
-初學樂曲 - 往事難忘一
+初學樂曲 - 往事難忘
 
 ![往事難忘一](/assets/Piano/B-往事難忘一.png){: width="600px"}
 
@@ -10,7 +10,7 @@ keywords: 初學樂曲 - 往事難忘一
 <details>
   <summary>YouTube 影帶</summary>
 <ol>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nywYm5wpY5s" title="山上音樂家 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nywYm5wpY5s" title="往事難忘" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </ol>
 </details>
 
