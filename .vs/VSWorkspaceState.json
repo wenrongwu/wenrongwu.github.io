@@ -2,15 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\assets\\Piano",
     "\\pages",
-    "\\pages\\Beginner",
-    "\\pages\\Chords\\AugChords",
-    "\\pages\\Chords\\DimChords",
-    "\\pages\\Chords\\MainChords",
-    "\\pages\\Chords\\MinorChords",
-    "\\_data\\sidebars"
+    "\\pages\\Beginner"
   ],
-  "SelectedNode": "\\assets\\Piano\\B-往事難忘合奏.png",
+  "SelectedNode": "\\pages\\Beginner\\B-Unforgettablepast.md",
   "PreviewInSolutionExplorer": false
 }
