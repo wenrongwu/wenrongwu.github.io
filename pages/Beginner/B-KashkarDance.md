@@ -10,7 +10,7 @@ keywords: 初學樂曲 - 往事難忘一
 <details>
   <summary>YouTube 影帶</summary>
 <ol>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sgC7ZiWhjcE" title="喀什喀爾舞曲" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pVjW4ZxV_eo" title="喀什喀爾舞曲" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </ol>
 </details>
 
