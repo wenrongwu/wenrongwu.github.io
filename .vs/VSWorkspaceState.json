@@ -2,10 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\assets",
+    "\\assets\\Piano",
     "\\pages",
-    "\\pages\\Beginner",
-    "\\_data\\sidebars"
+    "\\pages\\Beginner"
   ],
-  "SelectedNode": "\\pages\\Beginner\\B-HappyAges.md",
+  "SelectedNode": "\\pages\\Beginner\\B-MoonAsMyHeart.md",
   "PreviewInSolutionExplorer": false
 }
