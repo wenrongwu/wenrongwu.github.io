@@ -100,6 +100,8 @@ subitems:
         url: /B-HappyAges
       - title: 月亮代表我的心
         url: /B-MoonAsMyHeart
+      - title: 月朦朧 鳥朦朧
+        url: /B-HazyMoonlight
   - title: 教學影帶
     url: /Tutor
     subitems:

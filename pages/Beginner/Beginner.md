@@ -31,6 +31,7 @@ keywords: 前言
 1. [往事難忘-雙人合奏](./B-UnforgettablepastTwo)
 1. [歡樂年華](./B-HappyAges)
 1. [月亮代表我的心](./B-MoonAsMyHeart)
+1. [月朦朧 鳥朦朧](./B-HazyMoonlight)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
