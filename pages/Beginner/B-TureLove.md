@@ -1,23 +1,23 @@
 ﻿---
-keywords: 初學樂曲 - 月朦朧 鳥朦朧
+keywords: 初學樂曲 - 愛的真諦
 ---
-初學樂曲 - 月朦朧 鳥朦朧
+初學樂曲 - 愛的真諦
 
-![月朦朧 鳥朦朧](/assets/Piano/B-月朦朧鳥朦朧.png){: width="600px"}
+![愛的真諦](/assets/Piano/B-愛的真諦.png){: width="600px"}
 
-<a href="/assets/Piano/B-月朦朧鳥朦朧.pdf" target="_blank">下載琴譜</a>
+<a href="/assets/Piano/B-愛的真諦.pdf" target="_blank">下載琴譜</a>
 
 <details>
   <summary>YouTube 影帶</summary>
 <ol>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gmEGPkmeg-Y" title="月朦朧 鳥朦朧" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/7p3dyk7OzJA" title="愛的真諦" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </ol>
 </details>
 
 <details>
   <summary>MuseScore 影帶</summary>
 <ol>
-<a href="https://musescore.com/user/65457238/scores/13834729?share=copy_link" target="_blank">Open to Play</a>
+<a href="https://musescore.com/user/65457238/scores/15332134" target="_blank">Open to Play</a>
 </ol>
 </details>
 
@@ -25,9 +25,9 @@ keywords: 初學樂曲 - 月朦朧 鳥朦朧
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[上一頁](B-MoonAsMyHeart)
+[上一頁](B-HazyMoonlight)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[下一頁](B-TureLove)
+[下一頁](Tutor)
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-SK366WCHW3"></script>
